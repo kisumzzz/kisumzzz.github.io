@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
+title: Anqi's bolg
+email: anqizuo1213@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Anqi
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  #job: "PHP & Ruby Developer"
+  #bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  email: anqizuo1213@gmail.com
+  #disqus-shortname: renyuanzblog
+  #@twitter: renyuan814 #username
+  #facebook: #username
   google:
     plus: #username
     analytics: # edit to insert your GA script
