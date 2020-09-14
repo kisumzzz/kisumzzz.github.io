@@ -8,14 +8,12 @@ comments: true
 pinned: true
 
 ---
+# Evolution of a Product
+### the phases of growing
+![Smithsonian Image]({{ site.url }}/assets/img/grow-phses.png)
+{: .pull-right}
 
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
+## early phase
 
 ### Heading 3
 
