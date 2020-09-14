@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f09946e-8f13-4938-8bfc-aacf82a68230" name="Default Changelist" comment="" />
+    <list default="true" id="9f09946e-8f13-4938-8bfc-aacf82a68230" name="Default Changelist" comment="update_0913" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +60,7 @@
       <updated>1598025460032</updated>
       <workItem from="1598025461115" duration="552000" />
       <workItem from="1600051222617" duration="1270000" />
-      <workItem from="1600052507315" duration="285000" />
+      <workItem from="1600052507315" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="update_0821">
       <created>1600051814653</created>
@@ -75,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600052292531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update_0913">
+      <created>1600052875722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600052875722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update_0913">
+      <created>1600052939494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600052939494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +111,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update_0821" />
-    <option name="LAST_COMMIT_MESSAGE" value="update_0821" />
+    <MESSAGE value="update_0913" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_0913" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1600052881822">
