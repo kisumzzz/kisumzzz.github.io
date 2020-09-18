@@ -12,8 +12,7 @@ image:
 ---
 # Evolution of a Product
 ### the phases of growing
-![image]({{ site.url }}/assets/img/grow-phses.png)
-{: .pull-right}
+![image]({{ site.url }}tree/theme/assets/img/grow-phses.png)
 
 ## early phase
 During the first month, there is a scarcity of data, and what data you do have likely isn’t reliable or representative of the product’s long-term future. All monthly active users (MAUs) are also new users, and there is no churn or resurrection. *(Note: the total number of active users for a given time period is the sum of retention, resurrection and new users.)*
