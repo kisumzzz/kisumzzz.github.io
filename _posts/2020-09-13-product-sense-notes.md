@@ -6,11 +6,13 @@ modified: 2013-05-31
 tags: [study,notes]
 comments: true
 pinned: true
+image:
+  feature: grow-phses.png
 
 ---
 # Evolution of a Product
 ### the phases of growing
-({{ site.url }}/assets/img/grow-phses.png)
+![image]({{ site.url }}/assets/img/grow-phses.png)
 {: .pull-right}
 
 ## early phase
