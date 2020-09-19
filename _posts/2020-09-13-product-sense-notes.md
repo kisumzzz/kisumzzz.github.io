@@ -119,9 +119,11 @@ The top growth metric you should track is the number of active users:
 <br/>The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
 
 <br/>Some rates:
-- $\frac{New users}{MAU}$
-- $\frac{Sign-ups}{installs}$
+- $$\frac{New users}{MAU}$$
+- $$\frac{Sign-ups}{installs}$$
 
+### Growth considerations
+**Possible segmentations** It’s useful to monitor growth by multiple dimensions depending on what is most meaningful to your business: country, device, age, gender, phone year class, connectivity class, platform, age in product, etc. Keeping track of the referrer source (paid, organic, SEO, App Store) is particularly important.
 
 ## <font color=EAC493> Retention
 
