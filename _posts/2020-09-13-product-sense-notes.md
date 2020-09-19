@@ -20,8 +20,8 @@ pinned: true
 - In the second month, there is no resurrection but churn from the first-month users.
 - In the third month, a balance between new users, churn and resurrection begins to emerge.
 
-<br/>**(Note: the total number of active users for a given time period = retention + resurrection + new users.)**
-<br/>**month-over-month net user growth = $$ \frac{new users+resurrected users}{churned users}$$**
+<br/>**the total number of active users for a given time period = retention + resurrection + new users**
+<br/>**month-over-month net user growth =  $\frac{new users+resurrected users}{churned users}$**
 
 #### Healthy products during the Early phase
 - Cohort retention is strong compared to similar products in the space that have similar levels of penetration.
@@ -119,6 +119,8 @@ The top growth metric you should track is the number of active users:
 <br/>The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
 
 <br/>Some rates:
+- $\frac{New users}{MAU}$
+- $\frac{Sign-ups}{installs}$
 
 
 ## <font color=EAC493> Retention
