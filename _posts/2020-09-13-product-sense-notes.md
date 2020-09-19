@@ -99,32 +99,54 @@ Consumer companies should measure aspects such as **growth**, **retention**, **s
 
 ### Market metrics
 To monitor growth, it is useful to track both your **monthly active users (MAU) as a percentage of overall installs** and **the total number of installs as a percentage of your market**.
-<br/>
+
 As installs approach maximum TAM penetration, new user acquisition is no longer a tactic for incremental net growth, retention of your older cohorts needs to improve over time in order to produce net growth.
-<br/>
+
 Keep in mind, different genres of apps have very different behaviors. For example, all games have a shelf life, regardless of how popular they may be at their peak. 
 
 ### Growth metrics
-The top growth metric you should track is the number of active users:
-- the total number of people who actively use the product on any given day is daily active users (**DAU**)
-- the number of unique active users in a given week is weekly active users (**WAU**)
-- the number of unique active users in a given month (**MAU**)
+1. The top growth metric you should track is the number of active users:
+    - the total number of people who actively use the product on any given day is daily active users (**DAU**)
+    - the number of unique active users in a given week is weekly active users (**WAU**)
+    - the number of unique active users in a given month (**MAU**)
 
-<br/>Understanding how the number of active users changes:
-- day-over-day (**D/D**), week-over-week (**W/W**), month-over-month (**M/M**) and year-over-year (**Y/Y**)
-- tracking its rolling seven-day average may be more meaningful
-- it is best to use rolling metrics as opposed to calendar-based metrics
-    <br>*For example, comparing MAU between February and January is misleading, as the months are different lengths; a 28-day rolling MAU would be preferable. Comparing 28-day rolling windows has the additional advantage of avoiding a day-of-the-week effect that could skew results.*
+2. Understanding how the number of active users changes:
+    - day-over-day (**D/D**), week-over-week (**W/W**), month-over-month (**M/M**) and year-over-year (**Y/Y**)
+    - tracking its rolling seven-day average may be more meaningful
+    - it is best to use rolling metrics as opposed to calendar-based metrics
+        <br>*For example, comparing MAU between February and January is misleading, as the months are different lengths; a 28-day rolling MAU would be preferable. Comparing 28-day rolling windows has the additional advantage of avoiding a day-of-the-week effect that could skew results.*
 
-<br/>The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
+3. The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
 
-<br/>Some rates:
-- $$\frac{New users}{MAU}$$
-- $$\frac{Sign-ups}{installs}$$
+4. Some rates:
+    - **New users/MAU**
+        - For unhealthy companies, new users sometimes remain the largest driver of growth even after the product reaches a high degree of market penetration.
+    - **Sign-ups/Installs**
 
 ### Growth considerations
 **Possible segmentations** It’s useful to monitor growth by multiple dimensions depending on what is most meaningful to your business: country, device, age, gender, phone year class, connectivity class, platform, age in product, etc. Keeping track of the referrer source (paid, organic, SEO, App Store) is particularly important.
 
 ## <font color=EAC493> Retention
+Retention is the best indicator of <u> whether your product is valuable and whether you have product-market fit</u> — because it tells you whether people who tried your product liked it enough to return and use it again.
+
+Generally, <u>the first day or week is critical</u> for a product with a new group of users. Do they have enough content to consume? Do they have a few close friends to chat with? Do they have a mental model of what the product is?
+
+To enable <u>healthy retention</u> and build a successful product, you must have a <u>core set of users</u>. 
+When you are starting out, always build your product for this set of users, focusing on the use case that matters most to them. 
+**This involves both creating a “magical moment” in which users first “get” the product and identifying the tipping point that establishes user retention.**
+
+For Facebook, the magical moment is when a new user sees the face of a friend for the first time. For WhatsApp, it’s the first message a person receives. For Amazon, it could be when a buyer receives their first purchase or has their first interaction with the customer service team.
+
+Retention is also the most important lever for your product’s growth. 
+**Early retention can be a strong predictor of long-term retention.** While the absolute value of retention depends on the type of product (social, gaming, messaging, etc.) and the time frame you choose to measure (daily, weekly, monthly, etc.), it’s always true that the higher the retention, the better.
+
+### Retention curves
+1. **worst-case scenario** : long-term cohort retention drops to zero and the product eventually dies
+2. **nomal-case scenario** : the retention curve flattens out at a number greater than zero. This ensures the product has active users — the higher it flattens out, the more users you have.
+3. **best-case scenario** : there may be a Hyper Growth phase in which the older cohorts start to increase their retention
+
+### Retention metrics
+
+    
 
 ## <font color=EAC493> STICKINESS
