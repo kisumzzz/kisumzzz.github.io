@@ -21,7 +21,7 @@ pinned: true
 - In the third month, a balance between new users, churn and resurrection begins to emerge.
 
 <br/>**(Note: the total number of active users for a given time period = retention + resurrection + new users.)**
-<br/>**month-over-month = $frac{new users+resurrected users}{churned users}$**
+<br/>**month-over-month net user growth = $$ \frac{new users+resurrected users}{churned users}$$**
 
 #### Healthy products during the Early phase
 - Cohort retention is strong compared to similar products in the space that have similar levels of penetration.
@@ -79,6 +79,9 @@ To continue to grow your product after hitting maturity, you must diversify your
 - As your product begins to completely penetrate the market, a balance emerges between resurrection and churn with new users contributing negligible growth.
 - Diversification in the form of multiple product lines is critical to achieve sustained long-term growth.
 
+<br>
+<br>
+
 # <font color=A6AFBE>Chapter 2 Measuring Product Health
 Consumer companies should measure aspects such as **growth**, **retention**, **stickiness** and **engagement**.
 ## <font color=EAC493> User adoption and growth
@@ -106,17 +109,16 @@ The top growth metric you should track is the number of active users:
 - the total number of people who actively use the product on any given day is daily active users (**DAU**)
 - the number of unique active users in a given week is weekly active users (**WAU**)
 - the number of unique active users in a given month (**MAU**)
-<br/>
-Understanding how the number of active users changes:
+
+<br/>Understanding how the number of active users changes:
 - day-over-day (**D/D**), week-over-week (**W/W**), month-over-month (**M/M**) and year-over-year (**Y/Y**)
 - tracking its rolling seven-day average may be more meaningful
 - it is best to use rolling metrics as opposed to calendar-based metrics
     <br>*For example, comparing MAU between February and January is misleading, as the months are different lengths; a 28-day rolling MAU would be preferable. Comparing 28-day rolling windows has the additional advantage of avoiding a day-of-the-week effect that could skew results.*
-<br/>
-The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
 
-<br>Some rates:
-- 
+<br/>The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
+
+<br/>Some rates:
 
 
 ## <font color=EAC493> Retention
