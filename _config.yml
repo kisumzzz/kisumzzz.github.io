@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Anqi
+  name: Anqi Zuo
   avatar: angel1.png
   #job: "PHP & Ruby Developer"
   #bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: anqizuo1213@gmail.com
+  #email: anqizuo1213@gmail.com
   #disqus-shortname: renyuanzblog
   #@twitter: renyuan814 #username
   #facebook: #username
@@ -50,7 +50,7 @@ owner:
   bing-verify:
   github: kisumzzz #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin:  #username
+  linkedin:  Anqi(Angela) Zuo
   xing: #username
   instagram: #username
   lastfm: #username
