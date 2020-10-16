@@ -3,7 +3,7 @@ layout: post
 title: Product Sense
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2013-05-31
-tags: [study,notes]
+categories: [case study]
 comments: true
 pinned: true
 
