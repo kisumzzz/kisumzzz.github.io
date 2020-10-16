@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Case Study - Metrics
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: StellarPeers - Metrics
+excerpt: "Some case study of metrics."
 modified: 2020-09-23
-categories: [case study]
+categories: [Product]
 comments: true
 pinned: true
 
