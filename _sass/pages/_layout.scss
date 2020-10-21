@@ -1,5 +1,4 @@
 /* LAYOUT CSS */
-
 html, body {
   font-size: 100%;
 }
@@ -25,35 +24,29 @@ html, body {
 .cover-card {
   color: $text-color;
   padding: 0 30px;
-  text-align: center;
   .avatar {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     float: none;
-    @include media-query($medium-screen) {
-      margin-right: 0;
-    }
   }
   .author_name {
     display: block;
     color: #F36170;
-    font-size: 1.65em;
+    font-size: 1.75em;
     text-transform: lowercase;
   }
   .author_job {
     display: block;
     color: $secondary;
-    font-size: 0.65em;
+    font-size: 0.8em;
     font-weight: 700;
-    font-family: 'Montserrat';
+    text-transform: uppercase;
     margin: -5px auto 10px;
-    color: white;
   }
   .author_bio {
     font-size: 90%;
     display: block;
-    color: #8998e5;
   }
   @include media-query($medium-screen) {
     text-align: right;
@@ -69,9 +62,9 @@ html, body {
     li {
       list-style: none;
       display: inline-block;
-      margin-left: 0.3em;
+      margin-left: 1em;
       a.social-link-item {
-        color: white;
+        color: $secondary;
         &:hover,
         &:focus {
           color: lighten($secondary, 14%);
@@ -80,28 +73,19 @@ html, body {
     }
   }
 }
-
 .nav-list {
   margin: 0;
   padding: 0;
   list-style: none;
   .nav-item {
-
     display: inline-block;
     *display: inline;
     zoom: 1;
-    &:after {
-      content: '/';
-    }
-    &:last-child:after {
-      content: '';
-    }
     & a {
       margin-top: 1em;
       text-transform: lowercase;
-      font-size: 75%;
+      font-size: 90%;
       color: $secondary;
-      color: white;
       &:hover,
       &:focus {
         color: lighten($secondary, 14%);
