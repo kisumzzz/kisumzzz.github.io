@@ -46,7 +46,7 @@ section.post {
 
 // Post title
 .post-title {
-
+ font-size: 24px;
 }
 
 .post-title-link {
@@ -61,7 +61,7 @@ section.post {
 
 // Post meta
 .post-meta {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: bold;
 	.post-date {
 		color: $secondary;
@@ -88,6 +88,7 @@ a.read-more {
 // Post content
 
 #post {
+  width: 70%;
   padding-bottom: 50px;
   .post-header {
     margin: 0 auto 50px;
