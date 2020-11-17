@@ -12,7 +12,7 @@ This post is my record for practicing sql in LeetCode.
  
 ## <font color=#FF9999>Day 1
 |Number ｜Category | Difficulty |
-|:--------|:-------:|--------:|
+|--------|-------|--------|
 | 175 | joins | Easy |
 | 176   | rank  | Easy  |
 |177   |  rank | Medium |
@@ -20,8 +20,8 @@ This post is my record for practicing sql in LeetCode.
 | 180   | lead / lag   | Medium  |
 
 ## <font color=#FF9999>Day 2
-| Number | Category | Difficulty |
-|:--------|:-------:|--------:|
+|Number | Category | Difficulty |
+|--------|-------|--------|
 | 181 | joins | Easy |
 | 182   | having  | Easy  |
 |183   |  joins | Easy |
