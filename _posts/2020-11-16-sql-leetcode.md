@@ -1,35 +1,14 @@
 ---
 layout: post
 title: Sql LeetCode
-excerpt: 
+excerpt: My record for practicing sql in LeetCode.
 modified: 2020-11-16
 categories: [SQL]
 comments: true
 pinned: true
 
 ---
-This post is my record for practicing sql in LeetCode.
- 
 ## <font color=FF9999>Day 1
-|Number ｜Category | Difficulty |
-|--------|-------|--------|
-| 175 | joins | Easy |
-| 176   | rank  | Easy  |
-|177   |  rank | Medium |
-| 178  | rank   | Medium  |
-| 180   | lead / lag   | Medium  |
-{: rules="groups"}
-
-## <font color=FF9999>Day 2
-|Number | Category | Difficulty |
-|--------|-------|--------|
-| 181 | joins | Easy |
-| 182   | having  | Easy  |
-|183   |  joins | Easy |
-| 184  | dense_rank   | Medium  |
-| 185   | dense_rank   | Hard  |
-{: rules="groups"}
-
 <table>
     <thead>
         <tr>
@@ -41,18 +20,27 @@ This post is my record for practicing sql in LeetCode.
     <tbody>
         <tr>
             <td>175</td>
+            <td>joins</td>
+            <td>Easy</td>
+        </tr>
+        <tr>
             <td>176</td>
-            <td>可爱</td>
+            <td>rank</td>
+            <td>Easy</td>
         </tr>
         <tr>
-            <td>我</td>
-            <td>超级</td>
-            <td>机智</td>
+            <td>177</td>
+            <td>rank</td>
+            <td>Medium </td>
         </tr>
         <tr>
-            <td>我</td>
-            <td>超级</td>
-            <td>帅气</td>
+            <td>178</td>
+            <td>rank</td>
+            <td>Medium</td>
+        <tr>
+            <td>180</td>
+            <td>lead/ lag</td>
+            <td>Medium</td>
         </tr>
     </tbody>
 </table>
