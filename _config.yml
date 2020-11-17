@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Anqi's bolg
+title: Anqi's blog
 email: anqizuo1213@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
