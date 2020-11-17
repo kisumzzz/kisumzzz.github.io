@@ -10,7 +10,7 @@ pinned: true
 ---
 This post is my record for practicing sql in LeetCode.
  
-## <font color=#FF9999>Day 1
+## <font color=FF9999>Day 1
 |Number ｜Category | Difficulty |
 |--------|-------|--------|
 | 175 | joins | Easy |
@@ -19,7 +19,7 @@ This post is my record for practicing sql in LeetCode.
 | 178  | rank   | Medium  |
 | 180   | lead / lag   | Medium  |
 
-## <font color=#FF9999>Day 2
+## <font color=FF9999>Day 2
 |Number | Category | Difficulty |
 |--------|-------|--------|
 | 181 | joins | Easy |
