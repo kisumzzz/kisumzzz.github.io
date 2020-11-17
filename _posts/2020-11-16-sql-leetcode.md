@@ -28,3 +28,29 @@ This post is my record for practicing sql in LeetCode.
 | 184  | dense_rank   | Medium  |
 | 185   | dense_rank   | Hard  |
 
+<table>
+    <thead>
+        <tr>
+            <th>Number</th>
+            <th>Category </th>
+            <th>Difficulty</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>175</td>
+            <td>176</td>
+            <td>可爱</td>
+        </tr>
+        <tr>
+            <td>我</td>
+            <td>超级</td>
+            <td>机智</td>
+        </tr>
+        <tr>
+            <td>我</td>
+            <td>超级</td>
+            <td>帅气</td>
+        </tr>
+    </tbody>
+</table>
