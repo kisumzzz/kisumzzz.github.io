@@ -18,6 +18,7 @@ This post is my record for practicing sql in LeetCode.
 |177   |  rank | Medium |
 | 178  | rank   | Medium  |
 | 180   | lead / lag   | Medium  |
+{: rules="groups"}
 
 ## <font color=FF9999>Day 2
 |Number | Category | Difficulty |
@@ -27,6 +28,7 @@ This post is my record for practicing sql in LeetCode.
 |183   |  joins | Easy |
 | 184  | dense_rank   | Medium  |
 | 185   | dense_rank   | Hard  |
+{: rules="groups"}
 
 <table>
     <thead>
