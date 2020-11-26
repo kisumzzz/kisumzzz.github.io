@@ -9,38 +9,12 @@ pinned: true
 
 ---
 ## <font color=FF9999>Day 1
-<table>
-    <thead>
-        <tr>
-            <th>Number</th>
-            <th>Category </th>
-            <th>Difficulty</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>175</td>
-            <td>joins</td>
-            <td>Easy</td>
-        </tr>
-        <tr>
-            <td>176</td>
-            <td>rank</td>
-            <td>Easy</td>
-        </tr>
-        <tr>
-            <td>177</td>
-            <td>rank</td>
-            <td>Medium </td>
-        </tr>
-        <tr>
-            <td>178</td>
-            <td>rank</td>
-            <td>Medium</td>
-        <tr>
-            <td>180</td>
-            <td>lead/ lag</td>
-            <td>Medium</td>
-        </tr>
-    </tbody>
-</table>
+
+| Number | Difficulty | Category |
+|:--------|:-------:|--------:|
+| 175  | Easy   | joins |
+| cell4   | cell5   | cell6   |
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
