@@ -116,8 +116,11 @@ Keep in mind, different genres of apps have very different behaviors. For exampl
     - it is best to use rolling metrics as opposed to calendar-based metrics
         <br>*For example, comparing MAU between February and January is misleading, as the months are different lengths; a 28-day rolling MAU would be preferable. Comparing 28-day rolling windows has the additional advantage of avoiding a day-of-the-week effect that could skew results.*
 
-3. The growth accounting framework helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
+3. The **growth accounting framework** helps us understand which factors contribute most to growth by splitting growth into new users, resurrected users, retained users and churned users. 
 
+    **Δ growth = new users + resurrected users — churned users**
+    
+    Between any two timestamps (t1 and t2), the change in growth = new users acquired within this time frame + users who were not active at time t1 but came back by time t2 — users who were present in time t2 but not there in time t1.
 4. Some rates:
     - **New users/MAU**
         - For unhealthy companies, new users sometimes remain the largest driver of growth even after the product reaches a high degree of market penetration.
