@@ -149,7 +149,12 @@ Retention is also the most important lever for your product’s growth.
 3. **best-case scenario** : there may be a Hyper Growth phase in which the older cohorts start to increase their retention
 
 ### Retention metrics
-
+**Retention is assessed in terms of cohorts** — that is, by tracking a set of users who install a product on a given day, week or month and seeing what percentage of them return Ultimately, the goal is for the product to retain at high levels over a long period of time. 
+- **Dn/Mn/Wn** (The D1 retention rate is D1/D0, the fraction of your cohort retained for one day. (D0 is the number of installers in a cohort, and D1 is the number in that cohort who still use the product after one day.)
+- **Cohort curves**
     
-
+    Some additional tips for healthy retention:
+    - Compare new cohort retention rates to old cohort retention rates and make sure they remain healthy over time.
+    - Benchmark retention rates against similar products.
+    - Ensure that cohort retention flattens — preferably at a high rate.
 ## <font color=EAC493> STICKINESS
